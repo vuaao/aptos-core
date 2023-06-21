@@ -8,4 +8,4 @@ The Aptos Core team and community take all security bugs in the Aptos project se
 
 You can also report security bugs by emailing us directly at security@aptoslabs.com.
 
-Thank you for improving the security of the Aptos Blockchain! Your efforts and responsible disclosure are appreciated, and every effort will be made to acknowledge your contributions in a timely manner.
+Thank you for improving the security of the Aptos Blockchain! Your efforts and responsible disclosure are appreciated, and every effort will be made to acknowledge your contributions in a timely
